@@ -1,7 +1,7 @@
 # Emotion Classification from Text
 
 ## Description
-This project aims to classify text into specific emotions, such as "happy", "sad" or "anger" using deep learning techniques. The system takes a text input and predicts the corresponding emotion, enabling applications in sentiment analysis, chatbots, and mental health monitoring. 
+This project aims to classify text into specific emotions, such as "happy", "sad" or "anger" using deep learning techniques. The system takes a text input and predicts the corresponding emotion.
 
 The model leverages a Long Short-Term Memory (LSTM) neural network to analyze text data and classify the underlying emotions effectively.
 
